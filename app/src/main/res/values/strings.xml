@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventPracticeApp</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="hint_name">Enter your Name</string>
+    <string name="hint_age">Enter your Age (number)</string>
+    <string name="default_output">Results will be shown here.</string>
+    <string name="error_invalid_age">Error: Invalid Age Format.</string>
+</resources>
